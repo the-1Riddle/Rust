@@ -12,7 +12,7 @@
     - Your program should end in a new line
     - Your program should compile without warnings
 
-3. Write a C program that prints the size of various types on the computer it is compiled and run on.
+3. Write a Rust program that prints the size of various types on the computer it is compiled and run on.
 
     - You should produce the exact same output as in the example
   
