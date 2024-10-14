@@ -25,5 +25,3 @@
       Size of u32: 4 bytes
       Size of f64: 8 bytes
       ```
-
-4. 
